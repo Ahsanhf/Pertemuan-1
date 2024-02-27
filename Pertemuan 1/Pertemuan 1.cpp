@@ -11,10 +11,10 @@ int main()
     //compute nLuas=3.14 * r * r
     //display 'Luasnya=' + nLuas
      float nJejari, nLuas;
-     cout << "Masukkan jejari";
+     cout << "======Luas Lingkaran======" << endl;
+     cout << "Masukkan jejari = ";
      cin >> nJejari;
-     nLuas = 3.14 * nJejari * nJejari;
-     cout << "Luasnya =" << nLuas << endl;
+ 
 
 
         
